@@ -1,0 +1,187 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "features": "Características",
+    "how_it_works": "Cómo funciona",
+    "about": "Nosotros",
+    "contact": "Contacto",
+    "login": "Iniciar sesión",
+    "owner_reg": "Registro de propietarios",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title_part1": "Donde",
+    "title_part2": "los jugadores encuentran campos",
+    "title_part3": "y los campos encuentran jugadores",
+    "subtitle": "Descubre arenas, organiza sesiones, reserva partidos y compite en juegos clasificados, todo en una plataforma global.",
+    "download_on": "Descárgalo en",
+    "get_it_on": "Consíguelo en",
+    "app_store": "App Store",
+    "google_play": "Google Play"
+  },
+  "features": {
+    "title": "Funciones de la plataforma",
+    "description": "Todo lo que los jugadores y los dueños de campos necesitan para organizar partidos, gestionar reservas y mantener una experiencia impecable en cualquier dispositivo.",
+    "items": [
+      {
+        "title": "Gestión de campos y arenas",
+        "description": "Crea y administra el perfil de tu campo de paintball, sube imágenes, define reglas de reserva y mantén tu arena lista para los jugadores."
+      },
+      {
+        "title": "Programación de sesiones",
+        "description": "Crea sesiones clasificadas o sociales, establece horarios de partidos, gestiona los espacios de jugadores y mantén tu calendario organizado."
+      },
+      {
+        "title": "Notificaciones y actualizaciones",
+        "description": "Recibe notificaciones instantáneas de confirmaciones de reserva, actualizaciones, cancelaciones y alertas de suscripción."
+      },
+      {
+        "title": "Perfiles de jugadores y equipos",
+        "description": "Los jugadores pueden crear perfiles, unirse a equipos, seguir su historial de partidos y competir con otros en la tabla de clasificación."
+      },
+      {
+        "title": "Análisis e información de rendimiento",
+        "description": "Haz seguimiento de reservas, ingresos, actividad de jugadores y rendimiento de sesiones a través de un potente panel de análisis."
+      },
+      {
+        "title": "Seguridad y verificación",
+        "description": "Verifica jugadores, administra reglas y aplica los controles adecuados para que cada campo se mantenga seguro y listo para el día del juego."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "Cómo funciona",
+    "description": "Un flujo sencillo para conectar jugadores, propietarios de campos y equipos sin agregar fricción adicional al proceso.",
+    "steps": [
+      {
+        "title": "Crear y verificar",
+        "description": "Comienza creando tu cuenta y configurando tu perfil. Sube los datos requeridos y verifica tu identidad para desbloquear el acceso completo a la plataforma. Una vez aprobado, estarás listo para explorar partidos, equipos y campos."
+      },
+      {
+        "title": "Suscribirse y acceder",
+        "description": "Elige tu plan para desbloquear funciones como partidos clasificados y creación de equipos. Explora sesiones disponibles, únete a un equipo y reserva tu lugar. Los usuarios premium obtienen acceso a rankings, estadísticas avanzadas y funciones prioritarias."
+      },
+      {
+        "title": "Jugar y subir de rango",
+        "description": "Únete a tu partido programado y juega en el campo seleccionado. Los propietarios del campo envían los resultados, y los rankings se actualizan automáticamente. Sigue tu rendimiento, historial de partidos y progreso en la clasificación en tiempo real."
+      }
+    ]
+  },
+  "management": {
+    "title": "Cómo TACPLAY simplifica la gestión del paintball",
+    "description": "Desde organizar sesiones hasta administrar reservas y seguimiento de rendimiento, TACPLAY ofrece a propietarios de campos y jugadores todo lo que necesitan en una sola plataforma.",
+    "card1_title": "Administra tu panel de control",
+    "card1_desc": "Accede a un panel potente para monitorear reservas, sesiones e ingresos en tiempo real. Sigue el rendimiento y gestiona tus operaciones de paintball sin esfuerzo.",
+    "card2_title": "Seguimiento de la actividad de reservas",
+    "card2_desc": "Analiza de dónde provienen tus reservas y comprende la actividad de los jugadores para mejorar el rendimiento y la participación del campo.",
+    "card3_title": "Monitorear rendimiento de sesiones",
+    "card3_desc": "Visualiza la distribución de sesiones, tipos de partidos y niveles de participación para mantener tu campo funcionando sin problemas.",
+    "sessions": "Sesiones",
+    "card4_title": "Gestionar partidos y resultados",
+    "card4_desc": "Accede a un panel potente para monitorear reservas, sesiones e ingresos en tiempo real. Sigue el rendimiento y gestiona tus operaciones de paintball sin esfuerzo."
+  },
+  "power_features": {
+    "title": "Diseñado para impulsar el futuro del paintball competitivo",
+    "description": "Una plataforma diseñada para simplificar la gestión de campos, mejorar la organización de partidos y conectar jugadores de paintball en todo el mundo.",
+    "items": [
+      {
+        "percent": "95%",
+        "title": "Gestión de sesiones más rápida",
+        "description": "Crea, gestiona y organiza sesiones de paintball rápidamente con un panel intuitivo diseñado para propietarios de campos."
+      },
+      {
+        "percent": "40%",
+        "title": "Mayor participación de jugadores",
+        "description": "Los jugadores pueden descubrir campos, unirse a partidos y competir en juegos clasificados que los hacen volver."
+      },
+      {
+        "percent": "55%",
+        "title": "Eficiencia de reservas mejorada",
+        "description": "La reserva automatizada y la programación de sesiones ayudan a los campos a gestionar reservas sin trabajo manual."
+      },
+      {
+        "percent": "100%",
+        "title": "Resultados de partidos verificados",
+        "description": "Los resultados de los partidos son enviados de forma segura por los propietarios del campo para garantizar rankings justos y competencia confiable."
+      }
+    ]
+  },
+  "form_finding": {
+    "title": "De encontrar un campo a ganar el partido – Así es como",
+    "description": "Descubre arenas de paintball, reserva sesiones al instante, únete a partidos con otros jugadores y sube en los rankings globales en una experiencia integrada.",
+    "steps": [
+      {
+        "title": "Explorar campos",
+        "description": "Busca arenas de paintball cerca de ti, mira sesiones disponibles y encuentra el partido perfecto según ubicación y horario."
+      },
+      {
+        "title": "Elegir una sesión",
+        "description": "Revisa los detalles de la sesión incluyendo tipo de partido, espacios disponibles y requisitos de equipo antes de unirte al juego."
+      },
+      {
+        "title": "Reservar tu lugar",
+        "description": "Asegura tu lugar en segundos con reserva rápida y confirmación instantánea para la sesión seleccionada."
+      },
+      {
+        "title": "Jugar y subir en el ranking",
+        "description": "Compite en partidos, sigue tu rendimiento y sube en la clasificación a medida que ganes juegos clasificados."
+      }
+    ]
+  },
+  "competitive": {
+    "title": "Diseñado para impulsar el futuro del paintball competitivo",
+    "description": "Descubre arenas de paintball, reserva sesiones al instante, únete a partidos con otros jugadores y sube en los rankings globales en una experiencia integrada.",
+    "share_experience": "Comparte tu experiencia",
+    "testimonials": [
+      {
+        "name": "Diego",
+        "location": "Madrid, España",
+        "quote": "El sistema de clasificación y el seguimiento de partidos son lo que hace destacar a esta plataforma. Aporta un toque competitivo que antes faltaba. Los jugadores se mantienen comprometidos y cada partido se siente realmente significativo."
+      },
+      {
+        "name": "Carolina",
+        "location": "Valencia, España",
+        "quote": "Reservar una sesión, encontrar una escuadra y saltar al juego clasificado se siente todo conectado. Es la primera aplicación de paintball que realmente parece construida para comunidades competitivas."
+      },
+      {
+        "name": "José Luis",
+        "location": "Sevilla, España",
+        "quote": "El flujo de partidos en vivo facilita mantener el ritmo entre eventos. Todos saben en qué posición se encuentran, y eso cambia la energía en torno a cada partido."
+      },
+      {
+        "name": "Marina",
+        "location": "Bilbao, España",
+        "quote": "Las herramientas de descubrimiento de arenas y la clasificación dan a los jugadores casuales una razón para quedarse, y a los competitivos una razón para volver. Se siente muy pulido y útil."
+      },
+      {
+        "name": "Elena Broto",
+        "location": "Zaragoza, España",
+        "quote": "La experiencia se siente social sin perder la intensidad de la competencia. Programación, seguimiento y clasificación están en un solo lugar, que es exactamente lo que el deporte necesitaba."
+      },
+      {
+        "name": "Adrián Vega",
+        "location": "Málaga, España",
+        "quote": "Es raro ver un producto deportivo que maneje la comunidad, la competencia y el descubrimiento de manera tan limpia. El diseño hace que sea muy fácil llevar a la gente a los partidos rápidamente."
+      }
+    ]
+  },
+  "download": {
+    "title": "Descarga TACPLAY y comienza a competir hoy",
+    "description": "Descubre campos de paintball, reserva sesiones al instante, compite en partidos clasificados y sigue tu rendimiento — todo en una plataforma potente.",
+    "download_on": "Descárgalo en",
+    "get_it_on": "Consíguelo en",
+    "app_store": "App Store",
+    "google_play": "Google Play"
+  },
+  "footer": {
+    "tagline": "Uniendo a jugadores y propietarios de campos para crear una comunidad de paintball más fuerte y competitiva a través de soluciones tecnológicas y experiencias integradas",
+    "copyright": "© 2026 TACPLAY. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "owner_agreement": "Acuerdo de propietario",
+    "cookies": "Configuración de cookies",
+    "disclaimer": "Aviso legal del sitio web",
+    "use_policy": "Política de uso aceptable",
+    "return_policy": "Política de devoluciones"
+  }
+}

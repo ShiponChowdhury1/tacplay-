@@ -1,0 +1,187 @@
+{
+  "nav": {
+    "home": "Home Page",
+    "features": "Features",
+    "how_it_works": "How It Works",
+    "about": "About",
+    "contact": "Contact Us",
+    "login": "Login",
+    "owner_reg": "Owner Registration",
+    "language": "Language"
+  },
+  "hero": {
+    "title_part1": "Where",
+    "title_part2": "Players Find Fields",
+    "title_part3": "and Fields Find Players",
+    "subtitle": "Discover arenas, host sessions, book matches, and compete in ranked play all in one global platform.",
+    "download_on": "Download on",
+    "get_it_on": "Get it on",
+    "app_store": "App Store",
+    "google_play": "Google Play"
+  },
+  "features": {
+    "title": "Platform Features",
+    "description": "Everything players and field owners need to organize matches, manage bookings, and keep the experience polished across every device.",
+    "items": [
+      {
+        "title": "Field & Arena Management",
+        "description": "Create and manage your paintball field profile, upload images, define booking rules, and keep your arena ready for players."
+      },
+      {
+        "title": "Session Scheduling",
+        "description": "Create ranked or social sessions, set match times, manage player slots, and keep your calendar organized directly in the platform."
+      },
+      {
+        "title": "Notifications & Updates",
+        "description": "Receive instant notifications for booking confirmations, updates, cancellations, and subscription alerts."
+      },
+      {
+        "title": "Player Profiles & Teams",
+        "description": "Players can create profiles, join teams, track match history, and compete with others on the leaderboard."
+      },
+      {
+        "title": "Analytics & Performance Insights",
+        "description": "Track bookings, revenue, player activity, and session performance through a powerful analytics dashboard."
+      },
+      {
+        "title": "Safety & Verification",
+        "description": "Verify players, manage rules, and surface the right controls so every field stays secure and ready for game day."
+      }
+    ]
+  },
+  "how_it_works": {
+    "title": "How It Works",
+    "description": "A simple flow to connect players, field owners, and teams without adding extra friction to the process.",
+    "steps": [
+      {
+        "title": "Create & Verify",
+        "description": "Start by creating your account and setting up your profile. Upload required details and get verified to unlock full platform access. Once approved, you're ready to explore matches, teams, and fields."
+      },
+      {
+        "title": "Subscribe & Access",
+        "description": "Choose your plan to unlock features like ranked matches and team creation. Browse available sessions, join a team, and book your slot. Premium users get access to rankings, advanced stats, and priority features."
+      },
+      {
+        "title": "Play and Rank up",
+        "description": "Join your scheduled match and play at your selected field. Field owners submit match results, and rankings update automatically. Track your performance, match history, and leaderboard progress in real-time."
+      }
+    ]
+  },
+  "management": {
+    "title": "How TACPLAY Simplifies Paintball Management",
+    "description": "From hosting sessions to managing bookings and tracking performance, TACPLAY gives field owners and players everything they need in one platform.",
+    "card1_title": "Manage Your Field Dashboard",
+    "card1_desc": "Access a powerful dashboard to monitor bookings, sessions, and revenue in real time. Track performance and manage your paintball operations effortlessly.",
+    "card2_title": "Track Booking Activity",
+    "card2_desc": "Analyze where your bookings come from and understand player activity to improve field performance and engagement.",
+    "card3_title": "Monitor Session Performance",
+    "card3_desc": "View session distribution, match types, and participation levels to keep your field running smoothly.",
+    "sessions": "Sessions",
+    "card4_title": "Manage Matches & Results",
+    "card4_desc": "Access a powerful dashboard to monitor bookings, sessions, and revenue in real time. Track performance and manage your paintball operations effortlessly."
+  },
+  "power_features": {
+    "title": "Built to Power the Future of Competitive Paintball",
+    "description": "A platform designed to simplify field management, improve match organization, and connect paintball players around the world.",
+    "items": [
+      {
+        "percent": "95%",
+        "title": "Faster Session Management",
+        "description": "Create, manage, and organize paintball sessions quickly with an intuitive dashboard built for field owners."
+      },
+      {
+        "percent": "40%",
+        "title": "Higher Player Engagement",
+        "description": "Players can discover fields, join matches, and compete in ranked games that keep them coming back."
+      },
+      {
+        "percent": "55%",
+        "title": "Improved Booking Efficiency",
+        "description": "Automated booking and session scheduling helps fields manage reservations without manual work."
+      },
+      {
+        "percent": "100%",
+        "title": "Verified Match Results",
+        "description": "Match results are securely submitted by field owners to ensure fair rankings and trusted competition."
+      }
+    ]
+  },
+  "form_finding": {
+    "title": "From Finding a Field to Winning the Match - Here's How",
+    "description": "Discover paintball arenas, book sessions instantly, join matches with other players, and climb the global rankings all in one seamless experience.",
+    "steps": [
+      {
+        "title": "Explore Fields",
+        "description": "Browse paintball arenas near you, view available sessions, and find the perfect match based on location and time."
+      },
+      {
+        "title": "Choose a Session",
+        "description": "Check session details including match type, available slots, and team requirements before joining the game."
+      },
+      {
+        "title": "Book Your Spot",
+        "description": "Secure your place in seconds with quick booking and instant confirmation for your selected session."
+      },
+      {
+        "title": "Play & Climb the Rankings",
+        "description": "Compete in matches, track your performance, and move up the leaderboard as you win ranked games."
+      }
+    ]
+  },
+  "competitive": {
+    "title": "Built to Power the Future of Competitive Paintball",
+    "description": "Discover paintball arenas, book sessions instantly, join matches with other players, and climb the global rankings all in one seamless experience.",
+    "share_experience": "Share your experience",
+    "testimonials": [
+      {
+        "name": "Diego",
+        "location": "Madrid, España",
+        "quote": "The ranking system and match tracking features are what make this platform stand out. It brings a competitive edge that was missing before. Players stay engaged, and every match actually feels meaningful."
+      },
+      {
+        "name": "Carolina",
+        "location": "Valencia, España",
+        "quote": "Booking a session, finding a squad, and jumping into ranked play all feel connected. It is the first paintball app that actually feels built for competitive communities."
+      },
+      {
+        "name": "José Luis",
+        "location": "Sevilla, España",
+        "quote": "The live match flow makes it easy to keep momentum going between events. Everyone knows where they stand, and that changes the energy around every match."
+      },
+      {
+        "name": "Marina",
+        "location": "Bilbao, España",
+        "quote": "The arena discovery tools and ranking ladder give casual players a reason to stay, and competitive players a reason to come back. It feels polished and useful."
+      },
+      {
+        "name": "Elena Broto",
+        "location": "Zaragoza, España",
+        "quote": "The experience feels social without losing the intensity of competition. Scheduling, tracking, and ranking are all in one place, which is exactly what the sport needed."
+      },
+      {
+        "name": "Adrián Vega",
+        "location": "Málaga, España",
+        "quote": "It is rare to see a sports product handle community, competition, and discovery this cleanly. The layout makes it very easy to get people into matches fast."
+      }
+    ]
+  },
+  "download": {
+    "title": "Download TACPLAY & Start Competing Today",
+    "description": "Discover paintball fields, book sessions instantly, compete in ranked matches, and track your performance — all in one powerful platform.",
+    "download_on": "Download on the",
+    "get_it_on": "Get it on",
+    "app_store": "App Store",
+    "google_play": "Google Play"
+  },
+  "footer": {
+    "tagline": "Bringing together players and field owners to create a stronger, more competitive paintball community through technology-driven solutions and seamless experiences",
+    "copyright": "© 2026 TACPLAY. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "owner_agreement": "Owner Agreement",
+    "cookies": "Cookie Settings",
+    "disclaimer": "Website Disclaimer",
+    "use_policy": "Acceptable Use Policy",
+    "return_policy": "Return Policy"
+  }
+}

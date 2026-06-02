@@ -1,0 +1,131 @@
+/** @format */
+
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  /* Standard Shadcn Mappings */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Custom Brand Mappings */
+  --color-tertiary: var(--tertiary);
+  --color-button-bg: var(--button-bg);
+  --color-brand-border: var(--brand-border);
+
+  /* Fonts & Sidebar */
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-geist-mono);
+  --font-heading: var(--font-sans);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  /* Radius */
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+}
+
+:root {
+  /* Core Brand Colors */
+  --background: #030209;
+  --foreground: #ffffff; /* Primary */
+
+  --primary: #ffffff;
+  --primary-foreground: #030209;
+
+  --secondary: #8381a3;
+  --secondary-foreground: #ffffff;
+
+  --tertiary: #525273;
+  --button-bg: #fedd00;
+  --brand-border: #ff3131;
+  --border: #ff3131; /* Mapping your border color to standard UI borders */
+
+  /* UI Component Colors */
+  --card: #030209;
+  --card-foreground: #ffffff;
+  --popover: #030209;
+  --popover-foreground: #ffffff;
+  --muted: #525273;
+  --muted-foreground: #8381a3;
+  --accent: #525273;
+  --accent-foreground: #ffffff;
+  --destructive: #ff3131;
+  --input: #525273;
+  --ring: #fedd00;
+
+  /* Sidebar Specifics */
+  --sidebar: #030209;
+  --sidebar-foreground: #ffffff;
+  --sidebar-primary: #ffffff;
+  --sidebar-primary-foreground: #030209;
+  --sidebar-accent: #525273;
+  --sidebar-accent-foreground: #ffffff;
+  --sidebar-border: #525273;
+  --sidebar-ring: #fedd00;
+
+  --radius: 0.625rem;
+}
+
+/* Since your base theme is already dark (#030209), 
+   the .dark class maintains the same palette */
+.dark {
+  --background: #030209;
+  --foreground: #ffffff;
+  --card: #030209;
+  --card-foreground: #ffffff;
+  --popover: #030209;
+  --popover-foreground: #ffffff;
+  --primary: #ffffff;
+  --primary-foreground: #030209;
+  --secondary: #8381a3;
+  --secondary-foreground: #ffffff;
+  --muted: #525273;
+  --muted-foreground: #8381a3;
+  --accent: #525273;
+  --accent-foreground: #ffffff;
+  --destructive: #ff3131;
+  --border: #ff3131;
+  --input: #525273;
+  --ring: #fedd00;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}
